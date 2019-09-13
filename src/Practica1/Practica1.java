@@ -2,18 +2,12 @@ package Practica1;
 
 import java.awt.Color;
 import java.awt.event.KeyEvent;
-import javax.swing.JOptionPane;
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 
 /**
  *
- * @author Asus
+ * @author Victor Herrera Delgado
+ * @author Miguel Herrera Alvarez
  */
 public class Practica1 extends javax.swing.JFrame {
     
